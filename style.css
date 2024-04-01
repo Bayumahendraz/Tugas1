@@ -1,0 +1,97 @@
+body {
+    background-image: url(4.png);
+    background-size: cover;
+
+}
+.header {
+    border: 2px solid black;
+    background-color: aqua;
+    width: 1050px;
+    height: 60px;
+    margin-left: 140px;
+    border-radius: 20px;
+}
+
+marquee {
+    padding-top: 2,5px;
+    font-size: 50px;
+}
+
+.back {
+    border: 2px solid white;
+    background-image: url(8.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-clip: padding-box;
+    width: 900px;
+    height: 600px;
+    margin-left: 215px;
+    margin-top: 65px;
+    border-radius: 15px;    
+
+}
+
+.kotak2 {
+    border: 2px solid aquamarine;
+    width: 380px;
+    height: 250px;
+    background-color: rgb(100, 149, 237);
+    border-radius: 10px;
+    margin-top: 225px;
+    margin-left: -2.3cm;
+    
+}
+.footer {
+    border: 2px solid black;
+    background-color: aqua;
+    margin-top: 50px;
+    width: 1050px;
+    height: 60px;
+    margin-left: 140px;
+    border-radius: 20px;
+}
+
+.foto {
+    border: 2px solid aqua;
+    border-radius: 95px;
+    width: 200px;
+    height: 195px;
+    background-image: url(2.jpeg);
+    margin-left: 350px;
+    margin-top: 80px;
+    background-size: 200px;
+    margin-bottom: 90px;
+}
+
+p {
+    padding-left: 103px;
+    padding-top: 3px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.Keterangan  {
+    font-size: 15px;
+    padding-left: 1px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Sekolah {
+    padding-top: 10px;
+    padding-left: 25px;
+    float: left;
+}
+
+.Instagram {
+    padding-top: 10px;
+    padding-right: 40px;
+    float: right;
+}
+
+li {
+    margin-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
